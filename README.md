@@ -5,7 +5,7 @@ SQL based analysis of online retail data focusing on revenue, customers, product
 This project analyzes an online retail dataset using SQL to derive business insights related to sales performance,
 customer behavior, and product trends. The focus is on data cleaning, aggregation, and time-based analysis.
 
-##📊 Dataset
+## 📊 Dataset
 - Online Retail Dataset
 - Contains transactional data including invoices, products, quantities, prices, customers, and invoice dates.
 

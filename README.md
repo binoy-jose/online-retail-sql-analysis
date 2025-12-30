@@ -1,6 +1,5 @@
 # online-retail-sql-analysis
 SQL based analysis of online retail data focusing on revenue, customers, products, and trends
-# Online Retail SQL Analysis
 
 ## Project Overview
 This project analyzes an online retail dataset using SQL to derive business insights related to sales performance,

@@ -6,7 +6,7 @@ This project analyzes an online retail dataset using SQL to derive business insi
 customer behavior, and product trends. The focus is on data cleaning, aggregation, and time-based analysis.
 
 ## 📊 Dataset
-- Online Retail Dataset
+- Online Retail Dataset (Kaggle)
 - Contains transactional data including invoices, products, quantities, prices, customers, and invoice dates.
 
 ## 🧹 Data Cleaning Steps

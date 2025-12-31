@@ -7,6 +7,7 @@ customer behavior, and product trends. The focus is on data cleaning, aggregatio
 
 ## 📊 Dataset
 - Online Retail Dataset (Kaggle)
+- Link: https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 - Contains transactional data including invoices, products, quantities, prices, customers, and invoice dates.
 
 ## 🧹 Data Cleaning Steps
